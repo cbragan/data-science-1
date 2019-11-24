@@ -1,1 +1,2 @@
-This is a test doc for git
+This is a test doc for git.
+making edit to the test doc.
