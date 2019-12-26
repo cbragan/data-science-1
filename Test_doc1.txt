@@ -4,4 +4,7 @@ empty line below
 
 2nd edit
 
+
 changes made to file but commit under new branch. (later merge with Master to check if merged)
+
+3rd edit
